@@ -1,1 +1,6 @@
-
+4 lines (4 sloc)  96 Bytes
+   
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "C_Cpp.errorSquiggles": "Disabled"
+}
