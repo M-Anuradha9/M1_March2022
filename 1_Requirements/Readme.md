@@ -71,6 +71,3 @@ Airline Reservation systems has a set of benefits. Here are few of them:
 | ------ | --------- | ------ | ----- |
 | LR01 | New record shall be added by providing all the asked information and the Passenger id should be unique else Passenger record should not be accepted. | HR01 | Implemented |
 | LR02 | Reading Passenger data should be possible by printing all the records available | HR02 | Implemented |
-
-
-
